@@ -25,7 +25,7 @@
 ---
 
 ## 😉 DESTEĞİNİZ
-[DİSCORD](https://discord.gg/qTCEtF9sgu) sunucumuza gelerek bize destek verebilirsin.
+[DİSCORD](https://discord.gg/HMTHAqCTCz) sunucumuza gelerek bize destek verebilirsin.
 
 Youtube: https://www.youtube.com/c/kaanxd
 İletişim: kaan#1337
