@@ -24,8 +24,7 @@
 örn: https://ghostdev.tk/auth/callback
 ---
 
-## 😉 DESTEĞİNİZ
-[DİSCORD](https://discord.gg/HMTHAqCTCz) sunucumuza gelerek bize destek verebilirsin.
+## Support
 
 Youtube: https://www.youtube.com/c/kaanxd
 İletişim: kaan#1337
